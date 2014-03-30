@@ -1,0 +1,16 @@
+{
+  "name": "nsync-s3",
+  "version": "0.1.0",
+  "description": "amazon s3 transport for nsync",
+  "main": "lib/index.js",
+  "author": "Johan Nordberg <code@johan-nordberg.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jnordberg/nsync-s3.git"
+  },
+  "dependencies": {
+    "knox": "^0.8.9",
+    "mime": "^1.2.11"
+  }
+}
